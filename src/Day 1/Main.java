@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        double x = 3.2/1.5;
+        System.out.println(x);
     }
 }
