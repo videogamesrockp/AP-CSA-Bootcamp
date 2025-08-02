@@ -99,6 +99,12 @@ public class Main {
         for (int i: data) {
             System.out.println(i);
         }
+
+        String[] strings = new String[9];
+
+        for (int i = 0; i < 9; i ++) {
+            strings[i].substring(0, 1);
+        }
     }
 
     public static int fibonacciSeq(int x) {
